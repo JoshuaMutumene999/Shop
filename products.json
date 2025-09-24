@@ -1,0 +1,342 @@
+[
+    {
+        "id": "1001",
+        "title": "EARTHWORM JIM",
+        "description": "AVAST YE",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "VIS INTERACTIVE, INTERPLAY ENTERTAINMENT",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 679,
+        "seller": {
+            "id": "USER7890",
+            "name": "Kitsune",
+            "rating": 7.0
+        }
+    },
+    {
+        "id": "1002",
+        "title": "VIDEO GAME 2",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1003",
+        "title": "VIDEO GAME 3",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1004",
+        "title": "VIDEO GAME 4",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1005",
+        "title": "VIDEO GAME 5",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1006",
+        "title": "VIDEO GAME 6",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1007",
+        "title": "VIDEO GAME 7",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1008",
+        "title": "VIDEO GAME 8",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1009",
+        "title": "VIDEO GAME 9",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1010",
+        "title": "VIDEO GAME 10",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1011",
+        "title": "VIDEO GAME 11",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1012",
+        "title": "VIDEO GAME 12",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1013",
+        "title": "VIDEO GAME 13",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1014",
+        "title": "VIDEO GAME 14",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1015",
+        "title": "VIDEO GAME 15",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1016",
+        "title": "VIDEO GAME 16",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1017",
+        "title": "VIDEO GAME 17",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1018",
+        "title": "VIDEO GAME 18",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1019",
+        "title": "VIDEO GAME 19",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    },
+    {
+        "id": "1020",
+        "title": "VIDEO GAME 20",
+        "description": "VIDEO GAME DESC.",
+        "price": 59.99,
+        "currency": "USD",
+        "category": "VIDEO GAME",
+        "brand": "CORPORATE NAME",
+        "condition": "NEW",
+        "image_url": "IMAGE URL GOES HERE",
+        "stock": 1,
+        "seller": {
+            "id": "ID (USER7890)",
+            "name": "USERNAME",
+            "rating": 1.0
+        }
+    }
+]
